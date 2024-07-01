@@ -1,3 +1,4 @@
+# add a comment to see the commit function
 def select_sort(li):
     for i in range(len(li)-1):
         min_loc = i
